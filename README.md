@@ -140,24 +140,6 @@ For production applications, enable type-aware lint rules:
 
 ---
 
-## File Structure
-
-```plaintext
-├── src
-│   ├── assets       # Static assets
-│   ├── components   # Reusable components
-│   ├── hooks        # Custom React hooks
-│   ├── pages        # Application pages
-│   ├── styles       # CSS or Tailwind styles
-│   └── main.tsx     # Application entry point
-├── public           # Public assets
-├── package.json     # Project metadata and dependencies
-├── tsconfig.json    # TypeScript configuration
-└── vite.config.ts   # Vite configuration
-```
-
----
-
 ## License
 
 This template is open-source and available under the MIT License. Feel free to use and customize it as needed.
